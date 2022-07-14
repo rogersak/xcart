@@ -1,0 +1,16 @@
+.cart {
+  width: 100%;
+  overflow-x: hidden;
+  border-top: 2px solid #ececec;
+  padding: 10px 0;
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  flex-direction: column;
+}
+.cart__items {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  padding: 1rem;
+  gap: 10px;
+}

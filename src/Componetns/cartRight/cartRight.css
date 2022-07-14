@@ -1,0 +1,14 @@
+.cart__right {
+  background: url(https://disney-clone-e3d99.web.app/static/media/login-background.05b1a1b3088cbb458939.jpg) center center/cover;
+  display: flex;
+  height: 200px;
+}
+
+.subtotal{
+  background: rgba(17, 17, 17, 0.422);
+  backdrop-filter: blur(10px);
+  width: 100%;
+  height: 100%;
+  border-radius: 5px;
+
+}
